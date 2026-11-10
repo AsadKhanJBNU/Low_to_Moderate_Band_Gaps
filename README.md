@@ -14,7 +14,6 @@ Settings were chosen inside each training fold. The saved model was then refit o
 ## Repository contents
 
 - `Dataset/molecules.csv` — canonical SMILES, optical gap (eV), source, and DOI.
-- `Dataset/nfa_optical_gaps_added.csv` — the 173 added Zenodo molecules.
 - `Model/extratrees_rdkit_455.joblib` — the saved model.
 - `Results/predictions.csv` — out-of-fold predictions for the 10-fold and scaffold tests.
 - `Results/model_report.json` — the summary numbers.
