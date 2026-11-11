@@ -1,2 +1,0 @@
-protocol,split_id,n_test,n_low,n_predicted_low,n_both,mean_error,mae,precision,recall,n_above_2_5,r2_full,r2_without_above_2_5
-10fold_pooled,0,285,95,58,33,0.14353251800453587,0.15101236184417205,0.5689655172413793,0.3473684210526316,16,0.6530711013714475,0.34984711448990724

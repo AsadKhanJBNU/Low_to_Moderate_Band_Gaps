@@ -1,3 +1,0 @@
-seeds 50 excluding 42
-seed 7 rows compared 21
-largest test R2 difference 0.000000

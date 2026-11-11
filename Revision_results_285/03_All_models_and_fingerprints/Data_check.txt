@@ -1,6 +1,0 @@
-molecules 285
-Morgan (285, 1024)
-MACCS (285, 167)
-RDKit (285, 2048)
-RDKit matches the stacking note: True
-gaps match the stacking note: True
