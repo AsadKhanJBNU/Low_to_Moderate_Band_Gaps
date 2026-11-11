@@ -1,0 +1,7 @@
+split,fingerprint,n_train,n_test,n_identical,n_same_smiles
+Random 80/20,RDKit,228,57,11,1
+Random 80/20,Morgan,228,57,5,1
+Random 80/20,MACCS,228,57,27,0
+Scaffold 80/20,RDKit,228,57,1,0
+Scaffold 80/20,Morgan,228,57,0,0
+Scaffold 80/20,MACCS,228,57,7,0
